@@ -46,7 +46,7 @@ oh-my-zshを使わない人はdeploy.rbにあるoh-my-zsh周りのコードを�
       ├── .zshrc.local
       └── install.zsh
 
- 2. デプロイ対象とするホスト群をconfig-deployer/hostsに定義する
+ 2. デプロイ対象とするホスト群をzconf-deployer/hostsに定義する
 
     例::
 
